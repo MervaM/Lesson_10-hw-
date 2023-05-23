@@ -237,6 +237,16 @@ h1, h2, h3, h4 {
     width: 505px;
 }
 
+.manager-list {
+    display: inline-block;
+}
+
+.check-icon {
+    width: 35px;
+    margin-right: 30px;
+    text-align: center;
+
+}
 /* marketers */
 .marketer-descr {
     width: 486px;
